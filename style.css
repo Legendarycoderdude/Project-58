@@ -1,0 +1,18 @@
+img {
+    height: 218px;
+    border-radius: 20%;
+}
+
+body {
+    text-align: center;
+    background: radial-gradient(#505221 0%, #oofffb 100%);
+    background-repeat: no-repeat;
+    color: black;
+}
+
+.line-1 {
+    height: 3px;
+    background-color: cyan;
+    width: 80px;
+    margin: 12px auto;
+}
